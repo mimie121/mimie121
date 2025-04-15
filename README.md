@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andrew Miracle E.
 
-👀 I’m interested in music, software development, and all things tech.  
+👀 I’m interested in music, Web development, and all things tech.  
 💞️ I’m looking to collaborate on open source projects and I'm available for internships and job opportunities.  
 📫 How to reach me: **eandrewmiracle@gmail.com**
 
